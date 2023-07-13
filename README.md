@@ -3,10 +3,10 @@
 
 This is the repository for the course materials for the 2023 Summer Workshop on the Dynamic Brain.
 
-* Workshop 1: <a target="_blank" href="https://colab.research.google.com/github/shailajaAkella/swdb_2023/blob/main/Day4_workshops/Workshop1.ipynb">
+*  Workshop 1: <a target="_blank" href="https://colab.research.google.com/github/shailajaAkella/swdb_2023/blob/main/Day4_workshops/Workshop1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-* Workshop 2: <a target="_blank" href="https://colab.research.google.com/github/shailajaAkella/swdb_2023/blob/main/Day4_workshops/Workshop2.ipynb">
+*  Workshop 2: <a target="_blank" href="https://colab.research.google.com/github/shailajaAkella/swdb_2023/blob/main/Day4_workshops/Workshop2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
